@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-color: blanchedalmond;
+}
+.container{
+    width: 500px;
+    margin: 200px auto;
+    padding: 2rem 10px;
+    background-color: beige;
+}
+h2{
+    font-size: 2rem;
+    text-align: center;
+    border-bottom: 2px solid #fff;
+    color: rgb(240, 149, 133);
+}
+.lists{
+font-size: 2rem;
+margin: 7px 0;
+}
+.list{
+    font-size: 1.2rem;
+}
+p{
+    font-size: 1.2rem;
+}
+span{
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+button{
+    width: 100%;
+    margin: 5px 0;
+    padding: 1rem 0;
+    background-color: rgb(112, 162, 202);
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+}
+button a{
+    font-size: 1.6rem;
+    color: blue;
+}
